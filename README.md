@@ -69,9 +69,7 @@ cat /etc/hostname
 ## OUTPUT
 ### NAME: PRAVEEN B V
 ### REG NO: 212222100036
-![image](https://github.com/user-attachments/assets/1b46fb00-f0de-45be-adea-42b771555aa4)
-
-
+![Screenshot 2024-11-21 084703](https://github.com/user-attachments/assets/ce9d74b4-870d-47dc-b25d-61922814514e)
 
 ## RESULT
 The experiment to create and configure a Linux virtual machine (CentOS) using VirtualBox or VMware Workstation was successfully completed.
